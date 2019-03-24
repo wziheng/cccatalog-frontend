@@ -40,6 +40,7 @@ You can run the tests by executing:
 ``` bash
 npm run test
 ```
+badabinbadaboom test complete!
 
 ## Deployment
 
